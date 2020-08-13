@@ -20,14 +20,16 @@ $blockquote-text-color: #898b8e;
 $code-bg-color: #dedede;
 $code-text-color: #323336;
 
-// @import "{{ site.theme }}";
-
 body {
   font-family: "Myriad Pro", "Calibri", "PT Sans", sans-serif;
 }
 
 img.order-monitor-img {
-  width: 65%;
+  width: 75%;
+}
+
+img.mobile-tracker-img {
+  height: 50%;
 }
 
 h1,
@@ -45,8 +47,6 @@ h6 {
 
 .main-content {
   word-wrap: normal;
-
-  // @include large {
-  //   max-width: 80rem;
-  // }
+  margin: 5em;
+  max-width: 80rem;
 }
