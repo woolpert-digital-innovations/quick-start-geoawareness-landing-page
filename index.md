@@ -65,15 +65,15 @@ Follow the instructions provided in the individual READMEs included with each re
 
 1. Open **Order Monitor** and click on the _Carmelit_ store to view the near real-time dashboard.
 
-   <img class="order-monitor-img" alt="Order Monitor overview" src="/assets/img/order-monitor.png"></img>
+   <img class="order-monitor-img" alt="Order Monitor overview" src="./assets/img/order-monitor.png"></img>
 
 1. Open **Mobile Tracker**. Click _Place Order_ followed by _Leaving Now_. Take note of the fictitious customer’s name in the top right corner.
 
-   ![Mobile Tracker - place order.](/assets/img/place-order.png "Place Order")
+   ![Mobile Tracker - place order.](./assets/img/place-order.png "Place Order")
 
-   ![Mobile Tracker - leaving now.](/assets/img/leaving-now.png "Leaving Now")
+   ![Mobile Tracker - leaving now.](./assets/img/leaving-now.png "Leaving Now")
 
-   ![Mobile Tracker - leaving now, left.](/assets/img/leaving-now-left.png "Leaving Now - Left")
+   ![Mobile Tracker - leaving now, left.](./assets/img/leaving-now-left.png "Leaving Now - Left")
 
 1. In **Order Monitor**, watch the order queue (left) and map (right) as the customer’s order appears in the dashboard. Zoom in to a geofence by clicking the drive-time group heading in the order queue.
 
@@ -83,6 +83,6 @@ Follow the instructions provided in the individual READMEs included with each re
 
 1. Click _Close_ on a customer order. The order disappears from the queue and map.
 
-   <img alt="Order Monitor close order" src="/assets/img/close-order.png"></img>
+   <img alt="Order Monitor close order" src="./assets/img/close-order.png"></img>
 
-   <img class="order-monitor-img" alt="Order Monitor order disappears" src="/assets/img/order-disappears.png"></img>
+   <img class="order-monitor-img" alt="Order Monitor order disappears" src="./assets/img/order-disappears.png"></img>
